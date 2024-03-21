@@ -1,0 +1,31 @@
+# Generated on 20231113_061547
+# START DATA TYPES
+# int64 : UID.metadata,UID.source,sample.material.form
+# float64 : sample.composition.u.234.value,sample.composition.u.235.value,sample.composition.u.236.value,sample.composition.u.238.value,sample.composition.pu.238.value,sample.composition.pu.239.value,sample.composition.pu.240.value,sample.composition.pu.241.value,sample.composition.pu.242.value,sample.composition.am.241.value,sample.mox.u_pu_ratio.value,configuration.distance
+# object : sample.material.type,sample.material.chemical_composition,configuration.detector.material,configuration.detector.geometry,configuration.detector.analyzer,configuration.attenuators,supplementary.detector_size,supplementary.electronics,supplementary.measurement_geometry
+# END DATA TYPES
+UID.metadata,UID.source,sample.material.type,sample.material.chemical_composition,sample.material.form,sample.composition.u.234.value,sample.composition.u.235.value,sample.composition.u.236.value,sample.composition.u.238.value,sample.composition.pu.238.value,sample.composition.pu.239.value,sample.composition.pu.240.value,sample.composition.pu.241.value,sample.composition.pu.242.value,sample.composition.am.241.value,sample.mox.u_pu_ratio.value,configuration.detector.material,configuration.detector.geometry,configuration.detector.analyzer,configuration.attenuators,configuration.distance,supplementary.detector_size,supplementary.electronics,supplementary.measurement_geometry
+3000,300,MOX,-3,-3,-3.0,-3.0,-3.0,-3.0,1.1067,64.7774,26.2623,3.5096,4.3439,1.3937,-3.0,HPGe,Coax,DSPEC,Cd:~2,-3.0,56 mm dia by 56 mm thick coaxial,Unknown,
+3001,300,MOX,-3,-3,-3.0,-3.0,-3.0,-3.0,1.1067,64.7774,26.2623,3.5096,4.344,1.3937,-3.0,HPGe,Semi-planar,DSPEC,Cd:~2,-3.0,70 mm dia by 29.5 mm thick semi-planar,Unknown,
+3002,300,MOX,-3,-3,-3.0,0.225,-3.0,99.77,0.0465,87.629,11.668,0.472,0.185,0.818,-3.0,HPGe,Coax,DSPEC,Cd:~2,-3.0,Approx 25% rel eff closed end coax,Unknown,
+3003,300,MOX,-3,-3,-3.0,0.727,-3.0,99.25,0.0614,87.397,11.831,0.533,0.178,1.5864,-3.0,HPGe,Coax,DSPEC,Cd:~2,-3.0,Approx 25% rel eff closed end coax,Unknown,
+3004,300,MOX,-3,-3,-3.0,0.769,-3.0,99.21,0.0613,87.399,11.831,0.531,0.178,1.6062,-3.0,HPGe,Coax,DSPEC,Cd:~2,-3.0,Approx 25% rel eff closed end coax,Unknown,
+3005,300,MOX,-3,-3,-3.0,1.022,-3.0,98.96,0.0549,87.377,11.826,0.533,0.21,0.943,-3.0,HPGe,Coax,DSPEC,Cd:~2,-3.0,Approx 25% rel eff closed end coax,Unknown,
+3006,300,MOX,-3,-3,-3.0,1.073,-3.0,98.91,0.0558,87.554,11.693,0.51,0.187,1.396,-3.0,HPGe,Coax,DSPEC,Cd:~2,-3.0,Approx 25% rel eff closed end coax,Unknown,
+3007,300,MOX,-3,-3,-3.0,29.0,-3.0,-3.0,0.0209,91.934,7.766,0.226,0.053,1.0,-3.0,HPGe,Coax,ORTEC DART,Cd:~2,-3.0,Approx 25% rel eff closed end coax,Unknown,
+3008,300,MOX,-3,-3,-3.0,48.5,-3.0,-3.0,1.029,65.972,24.34,4.753,3.906,4.946,-3.0,HPGe,Coax,ORTEC DART,Cd:~2,-3.0,Approx 25% rel eff closed end coax,Unknown,
+3009,305,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0126,93.3793,5.8293,0.1233,0.6555,0.1723,0.3236,HPGe,Coax,integrated,Cd:~1-2,-3.0,Approx 9% RE Detective,Unknown,
+3010,302,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0126,93.3794,5.8293,0.1232,0.6555,0.1724,18.4675,HPGe,Coax,integrated,Cd:~1-2,-3.0,Approx 9% RE Detective,Unknown,
+3011,304,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0126,93.9335,5.8639,0.124,0.0659,0.1733,3.8857,HPGe,Coax,integrated,Cd:~1-2,-3.0,Approx 9% RE Detective,Unknown,
+3012,301,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0126,93.9336,5.8639,0.1239,0.0659,0.1734,37.8124,HPGe,Coax,integrated,Cd:~1-2,-3.0,Approx 9% RE Detective,Unknown,
+3013,303,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0126,93.9336,5.8639,0.124,0.0659,0.1734,8.7449,HPGe,Coax,integrated,Cd:~1-2,-3.0,Approx 9% RE Detective,Unknown,
+3014,302,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0128,93.3606,5.8294,0.1418,0.6553,0.1545,18.4622,HPGe,Planar,Unknown,Unknown,-3.0,Unknown,Unknown,
+3015,305,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0129,93.3606,5.8294,0.1418,0.6553,0.1545,0.3235,HPGe,Planar,Unknown,Cd:~1-2,-3.0,Unknown,Unknown,
+3016,304,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0129,93.9145,5.864,0.1426,0.0659,0.1554,3.8846,HPGe,Planar,Unknown,Unknown,-3.0,Unknown,Unknown,
+3017,301,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0129,93.9145,5.864,0.1426,0.0659,0.1554,37.8016,HPGe,Planar,Unknown,Unknown,-3.0,Unknown,Unknown,
+3018,303,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0129,93.9146,5.864,0.1425,0.0659,0.1555,8.7424,HPGe,Planar,Unknown,Unknown,-3.0,Unknown,Unknown,
+3019,305,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0136,93.2994,5.829,0.2033,0.6548,0.0942,0.3233,HPGe,Coax,Unknown,Unknown,-3.0,Approx 25% rel eff closed end coax,"Commercial Analog NIM electronics, models not recorded",
+3020,302,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0136,93.2998,5.829,0.2029,0.6548,0.0946,18.4462,HPGe,Coax,Unknown,None:0,-3.0,Approx 25% rel eff closed end coax,"Commercial Analog NIM electronics, models not recorded",
+3021,304,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0137,93.8525,5.8635,0.2045,0.0659,0.0948,3.8812,HPGe,Coax,Unknown,Unknown,-3.0,Approx 25% rel eff closed end coax,"Commercial Analog NIM electronics, models not recorded",
+3022,303,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0137,93.8528,5.8635,0.2041,0.0659,0.0951,8.7348,HPGe,Coax,Unknown,Unknown,-3.0,Approx 25% rel eff closed end coax,"Commercial Analog NIM electronics, models not recorded",
+3023,301,MOX,-3,-3,1.0178,93.1109,0.4362,5.4347,0.0137,93.853,5.8635,0.2039,0.0659,0.0953,37.7687,HPGe,Coax,Unknown,None:0,-3.0,Approx 25% rel eff closed end coax,"Commercial Analog NIM electronics, models not recorded",

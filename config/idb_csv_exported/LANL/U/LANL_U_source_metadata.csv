@@ -1,0 +1,16 @@
+# Generated on 20231113_061539
+# START DATA TYPES
+# int64 : UID.source
+# float64 : certificate.u.u.234.value,certificate.u.u.234.uncertainty,certificate.u.u.235.value,certificate.u.u.235.uncertainty,certificate.u.u.236.value,certificate.u.u.236.uncertainty,certificate.u.u.238.value,certificate.u.u.238.uncertainty
+# object : certificate.identification,certificate.u.reference_date,certificate.separation_date,certificate.document,certificate.fraction_unit,certificate.uncertainty,certificate.uncertainty.number_of_sigma
+# END DATA TYPES
+UID.source,certificate.identification,certificate.u.reference_date,certificate.u.u.234.value,certificate.u.u.234.uncertainty,certificate.u.u.235.value,certificate.u.u.235.uncertainty,certificate.u.u.236.value,certificate.u.u.236.uncertainty,certificate.u.u.238.value,certificate.u.u.238.uncertainty,certificate.separation_date,certificate.document,certificate.fraction_unit,certificate.uncertainty,certificate.uncertainty.number_of_sigma
+100,CRM146.NBL0001,1999-07-01 00:00:00,0.14861,0.00037,20.107,0.02,0.1973,0.0013,79.547,0.02,1990-01-01 00:00:00,"HEU_CRM146.pdf, Page 37",wt%,absolute,2 sigma
+101,CRM146.NBL0002,1999-07-01 00:00:00,0.3718,0.001,52.488,0.042,0.26451,0.0006,46.876,0.043,1990-01-01 00:00:00,"HEU_CRM146.pdf, Page 37",wt%,absolute,2 sigma
+102,CRM146.NBL0003,1999-07-01 00:00:00,0.98,0.0029,93.1703,0.0052,0.2937,0.0022,5.5559,0.0053,1990-01-01 00:00:00,"HEU_CRM146.pdf, Page 37",wt%,absolute,2 sigma
+103,CRM969.031,1985-06-01 00:00:00,0.002,0.0002,0.3166,0.0002,0.0146,0.0003,99.6668,0.0004,1977-01-01 00:00:00,"LEU_SRM969.pdf, Page 103",wt%,absolute,2 sigma
+104,CRM969.071,1985-06-01 00:00:00,0.0052,0.0002,0.7119,0.0005,0.0,-3.0,99.2828,0.0004,1977-01-01 00:00:00,"LEU_SRM969.pdf, Page 103",wt%,absolute,2 sigma
+105,CRM969.194,1985-06-01 00:00:00,0.0171,0.0002,1.942,0.0014,0.0003,0.0003,98.0406,0.0018,1977-01-01 00:00:00,"LEU_SRM969.pdf, Page 103",wt%,absolute,2 sigma
+106,CRM969.295,1985-06-01 00:00:00,0.0279,0.0004,2.9492,0.0021,0.0033,0.0002,97.0196,0.0029,1977-01-01 00:00:00,"LEU_SRM969.pdf, Page 103",wt%,absolute,2 sigma
+107,CRM969.446,1985-06-01 00:00:00,0.0359,0.0068,4.4623,0.0032,0.0068,0.0002,95.495,0.0032,1979-01-01 00:00:00,"LEU_SRM969.pdf, Page 103",wt%,absolute,2 sigma
+108,None,-3,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3,-3,-3,-3,-3

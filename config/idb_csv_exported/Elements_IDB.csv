@@ -1,0 +1,10 @@
+# Generated on 20200707
+# Note: Defines element name and symbol for which IDB isotopes have mass fraction data
+#
+# START DATA TYPES
+# string: element.name, element.symbol
+# ########################################
+ElementName,ElementSymbol
+Americium,AM
+Plutonium,PU
+Uranium,U

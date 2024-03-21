@@ -1,0 +1,7 @@
+# Notes can be added to explain 
+# a problem field
+UID,missing.data.note.flag.value,missing.data.note.description
+1,-1,Not Available
+2,-2,Non Communique
+3,-3,Empty String
+4,-4,Non-numeric Character

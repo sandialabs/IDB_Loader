@@ -1,0 +1,36 @@
+# Generated on 20231113_061841
+# START DATA TYPES
+# int64 : UID.metadata,UID.source
+# float64 : sample.composition.u.234.value,sample.composition.u.235.value,sample.composition.u.236.value,sample.composition.u.238.value
+# object : sample.material.type,sample.material.chemical_composition,sample.material.form,configuration.detector.material,configuration.detector.geometry,configuration.detector.analyzer,configuration.attenuators,configuration.distance,supplementary.detector_size,supplementary.electronics,supplementary.measurement_geometry
+# END DATA TYPES
+UID.metadata,UID.source,sample.material.type,sample.material.chemical_composition,sample.material.form,sample.composition.u.234.value,sample.composition.u.235.value,sample.composition.u.236.value,sample.composition.u.238.value,configuration.detector.material,configuration.detector.geometry,configuration.detector.analyzer,configuration.attenuators,configuration.distance,supplementary.detector_size,supplementary.electronics,supplementary.measurement_geometry
+1000,104,U,U3O8,powder,0.00214,0.4833,0.00462,99.51,HPGe,BEGe,Integrated MCA,None:0,-3,Falcon 5000,Integrated MCA,"No collimation, Open face"
+1001,104,U,U3O8,powder,0.00214,0.4833,0.00462,99.51,HPGe,Planar,DSPEC Pro,None:0,-3,ORTEC SGD,DSPEC Pro,"No collimation, Open face"
+1002,105,U,U3O8,powder,0.00532,0.9911,0.00675,98.997,HPGe,BEGe,Integrated MCA,None:0,-3,Falcon 5000,Integrated MCA,"No collimation, Open face"
+1003,105,U,U3O8,powder,0.00532,0.9911,0.00675,98.997,HPGe,Planar,DSPEC Pro,None:0,-3,ORTEC SGD,DSPEC Pro,"No collimation, Open face"
+1004,106,U,U3O8,powder,0.00836,1.513,0.0163,98.462,HPGe,BEGe,Integrated MCA,None:0,-3,Falcon 5000,Integrated MCA,"No collimation, Open face"
+1005,107,U,U3O8,powder,0.0123,2.013,0.0164,97.959,HPGe,BEGe,Integrated MCA,None:0,-3,Falcon 5000,Integrated MCA,"No collimation, Open face"
+1006,107,U,U3O8,powder,0.0123,2.013,0.0164,97.959,HPGe,Planar,DSPEC Pro,None:0,-3,ORTEC SGD,DSPEC Pro,"No collimation, Open face"
+1007,102,U,U3O8,powder,0.0171,1.9421,0.0003,98.0406,LaBr3,Unknown,DSPEC Plus,None:0,-3,None,DSPEC Plus,"No collimation, Open face"
+1008,108,U,U3O8,powder,0.0275,4.949,0.0476,94.975,HPGe,Planar,DSPEC Pro,None:0,-3,ORTEC SGD,DSPEC Pro,"No collimation, Open face"
+1009,103,U,U3O8,powder,0.0279,2.9492,0.0033,97.0196,LaBr3,Unknown,DSPEC Plus,None:0,-3,None,DSPEC Plus,"No collimation, Open face"
+1010,109,U,U3O8,powder,0.0666,10.075,0.0376,89.821,HPGe,BEGe,Integrated MCA,None:0,-3,Falcon 5000,Integrated MCA,"No collimation, Open face"
+1011,109,U,U3O8,powder,0.0666,10.075,0.0376,89.821,HPGe,Planar,DSPEC Pro,None:0,-3,ORTEC SGD,DSPEC Pro,"No collimation, Open face"
+1012,110,U,U3O8,powder,0.0978,15.143,0.0656,84.693,HPGe,Planar,DSPEC Pro,None:0,-3,ORTEC SGD,DSPEC Pro,"No collimation, Open face"
+1013,111,U,U3O8,powder,0.1229,19.811,0.2103,79.856,HPGe,BEGe,Integrated MCA,None:0,-3,Falcon 5000,Integrated MCA,"No collimation, Open face"
+1014,111,U,U3O8,powder,0.1229,19.811,0.2103,79.856,HPGe,Planar,DSPEC Pro,None:0,-3,ORTEC SGD,DSPEC Pro,"No collimation, Open face"
+1015,100,U,U3O8,powder,0.14861,20.107,0.1973,79.547,LaBr3,Unknown,DSPEC Plus,None:0,-3,None,DSPEC Plus,"No collimation, Open face"
+1016,112,U,U3O8,powder,0.2467,35.19,0.1667,64.684,HPGe,BEGe,Integrated MCA,None:0,-3,Falcon 5000,Integrated MCA,"No collimation, Open face"
+1017,112,U,U3O8,powder,0.2467,35.19,0.1667,64.684,HPGe,Planar,DSPEC Pro,None:0,-3,ORTEC SGD,DSPEC Pro,"No collimation, Open face"
+1018,101,U,U3O8,powder,0.3718,52.488,0.26451,46.876,LaBr3,Unknown,DSPEC Plus,None:0,-3,None,DSPEC Plus,"No collimation, Open face"
+1019,113,U,U3O8,powder,0.5126,49.383,0.0754,50.029,HPGe,BEGe,Integrated MCA,None:0,-3,Falcon 5000,Integrated MCA,"No collimation, Open face"
+1020,113,U,U3O8,powder,0.5126,49.383,0.0754,50.029,HPGe,Planar,DSPEC Pro,None:0,-3,ORTEC SGD,DSPEC Pro,"No collimation, Open face"
+1021,114,U,U3O8,powder,0.588,75.129,0.2502,24.033,HPGe,BEGe,Integrated MCA,None:0,-3,Falcon 5000,Integrated MCA,"No collimation, Open face"
+1022,114,U,U3O8,powder,0.588,75.129,0.2502,24.033,HPGe,Planar,DSPEC Pro,None:0,-3,ORTEC SGD,DSPEC Pro,"No collimation, Open face"
+1023,116,U,U3O8,powder,0.6399,84.988,0.3713,14.001,HPGe,Planar,DSPEC Pro,None:0,-3,ORTEC SGD,DSPEC Pro,"No collimation, Open face"
+1024,115,U,U3O8,powder,0.6519,80.088,0.245,19.015,HPGe,BEGe,Integrated MCA,None:0,-3,Falcon 5000,Integrated MCA,"No collimation, Open face"
+1025,115,U,U3O8,powder,0.6519,80.088,0.245,19.015,HPGe,Planar,DSPEC Pro,None:0,-3,ORTEC SGD,DSPEC Pro,"No collimation, Open face"
+1026,117,U,U3O8,powder,0.7735,90.098,0.3337,8.795,HPGe,BEGe,Integrated MCA,None:0,-3,Falcon 5000,Integrated MCA,"No collimation, Open face"
+1027,117,U,U3O8,powder,0.7735,90.098,0.3337,8.795,HPGe,Planar,DSPEC Pro,None:0,-3,ORTEC SGD,DSPEC Pro,"No collimation, Open face"
+1028,118,U,U3O8,powder,1.0759,93.276,0.2034,5.455,HPGe,Planar,DSPEC Pro,None:0,-3,ORTEC SGD,DSPEC Pro,"No collimation, Open face"

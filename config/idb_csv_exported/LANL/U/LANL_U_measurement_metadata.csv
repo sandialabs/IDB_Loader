@@ -1,0 +1,76 @@
+# Generated on 20231113_061539
+# START DATA TYPES
+# int64 : UID.metadata,UID.source
+# float64 : sample.composition.u.234.value,sample.composition.u.235.value,sample.composition.u.236.value,sample.composition.u.238.value
+# object : sample.material.type,sample.material.chemical_composition,sample.material.form,configuration.detector.material,configuration.detector.geometry,configuration.detector.analyzer,configuration.attenuators,configuration.distance,supplementary.detector_size,supplementary.electronics,supplementary.measurement_geometry
+# END DATA TYPES
+UID.metadata,UID.source,sample.material.type,sample.material.chemical_composition,sample.material.form,sample.composition.u.234.value,sample.composition.u.235.value,sample.composition.u.236.value,sample.composition.u.238.value,configuration.detector.material,configuration.detector.geometry,configuration.detector.analyzer,configuration.attenuators,configuration.distance,supplementary.detector_size,supplementary.electronics,supplementary.measurement_geometry
+1000,108,U,-3,-3,-3.0,-3.0,-3.0,-3.0,HPGe,Coax,DigiDart,None:0,10,"120% RE coaxial detector, ORTEC GEM",ORTEC DigiDart, NA
+1001,108,U,-3,-3,-3.0,-3.0,-3.0,-3.0,HPGe,Coax,DigiDart,None:0,41.25,"120% RE coaxial detector, ORTEC GEM",ORTEC DigiDart, NA
+1002,108,U,-3,-3,-3.0,-3.0,-3.0,-3.0,HPGe,Coax,DigiDart,None:0,84.75,"120% RE coaxial detector, ORTEC GEM",ORTEC DigiDart, NA
+1003,108,U,U3O8,powder,-3.0,11.7974,-3.0,-3.0,HPGe,Coax,Unknown,Cd:0.76,-3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available", 990 g U as U3O8
+1004,108,U,U3O8,powder,-3.0,12.9543,-3.0,-3.0,HPGe,Planar,DigiDart,None:0,-3,Planar,Unknown, 991 g U as U3O8
+1005,108,U,U3O8,powder,-3.0,17.239,-3.0,-3.0,HPGe,Coax,Unknown,Cd:0.76,-3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available", 989 g U as U3O8
+1006,108,U,U3O8,powder,-3.0,37.552,-3.0,-3.0,HPGe,Coax,Unknown,Cd:0.76,-3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available", 991 g U as U3O8
+1007,108,U,U3O8,powder,-3.0,66.041,-3.0,-3.0,HPGe,Coax,Unknown,Cd:0.76,-3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available", 990 g U as U3O8
+1008,108,U,U3O8,powder,-3.0,66.041,-3.0,-3.0,HPGe,Planar,DigiDart,None:0,-3,Planar,Unknown, 990 g U as U3O8
+1009,108,U,U3O8,powder,-3.0,91.336,-3.0,-3.0,HPGe,Coax,Unknown,Cd:0.76,-3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available", 990 g U as U3O8
+1010,103,U,U3O8,powder,0.002,0.3166,0.0146,99.6668,CZT,Unknown,DigiDart,None:0,1.6,15mm x 15mm x 15mm CPG,Unknown,170
+1011,103,U,U3O8,powder,0.002,0.3166,0.0146,99.6668,CdTe,Unknown,DigiDart,None:0,-3,10mm x 10mm x 1mm Peltier-cooled,Unknown,170
+1012,103,U,U3O8,powder,0.002,0.3166,0.0146,99.6668,HPGe,Coax,Unknown,Cd:0.76,-3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available", 170 g U as U3O8
+1013,103,U,U3O8,powder,0.002,0.3166,0.0146,99.6668,HPGe,Planar,Unknown,None:0,-3,Planar HPGe,Unknown,170
+1014,103,U,U3O8,powder,0.002,0.3166,0.0146,99.6668,LaBr3,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 3.8 cm thick ,Unknown,200
+1015,103,U,U3O8,powder,0.002,0.3166,0.0146,99.6668,NaI,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 5.1 cm thick ,Unknown,170
+1016,104,U,U3O8,powder,0.0052,0.7119,0.0,99.2828,CZT,Unknown,DigiDart,None:0,1.6,15mm x 15mm x 15mm CPG,Unknown,170
+1017,104,U,U3O8,powder,0.0052,0.7119,0.0,99.2828,CdTe,Unknown,DigiDart,None:0,-3,10mm x 10mm x 1mm Peltier-cooled,Unknown,170
+1018,104,U,U3O8,powder,0.0052,0.7119,0.0,99.2828,HPGe,Coax,Integrated MCA,None:0,-3,Ortec Detective,Integrated MCA,170
+1019,104,U,U3O8,powder,0.0052,0.7119,0.0,99.2828,HPGe,Coax,Unknown,Cd:0.76,-3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available", 170 g U as U3O8
+1020,104,U,U3O8,powder,0.0052,0.7119,0.0,99.2828,HPGe,Planar,Unknown,None:0,-3,Planar HPGe,Unknown,170
+1021,104,U,U3O8,powder,0.0052,0.7119,0.0,99.2828,LaBr3,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 3.8 cm thick ,Unknown,200
+1022,104,U,U3O8,powder,0.0052,0.7119,0.0,99.2828,NaI,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 5.1 cm thick ,Unknown,170
+1023,105,U,U3O8,powder,0.0171,1.942,0.0003,98.0406,CZT,Unknown,DigiDart,None:0,1.6,15mm x 15mm x 15mm CPG,Unknown,170
+1024,105,U,U3O8,powder,0.0171,1.942,0.0003,98.0406,CdTe,Unknown,DigiDart,None:0,-3,10mm x 10mm x 1mm Peltier-cooled,Unknown,170
+1025,105,U,U3O8,powder,0.0171,1.942,0.0003,98.0406,HPGe,Coax,Integrated MCA,None:0,-3,Ortec Detective,Integrated MCA,170
+1026,105,U,U3O8,powder,0.0171,1.942,0.0003,98.0406,HPGe,Planar,Unknown,None:0,-3,Planar HPGe,Unknown,170
+1027,105,U,U3O8,powder,0.0171,1.942,0.0003,98.0406,LaBr3,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 3.8 cm thick ,Unknown,200
+1028,105,U,U3O8,powder,0.0171,1.942,0.0003,98.0406,NaI,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 5.1 cm thick ,Unknown,170
+1029,105,U,U3O8,powder,0.0171,1.9421,0.0003,98.0406,HPGe,Coax,Unknown,Cd:0.76,-3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available", 170 g U as U3O8
+1030,106,U,U3O8,powder,0.0279,2.9491,0.0033,97.0196,CZT,Unknown,DigiDart,None:0,1.6,15mm x 15mm x 15mm CPG,Unknown,170
+1031,106,U,U3O8,powder,0.0279,2.9491,0.0033,97.0196,CdTe,Unknown,DigiDart,None:0,-3,10mm x 10mm x 1mm Peltier-cooled,Unknown,170
+1032,106,U,U3O8,powder,0.0279,2.9491,0.0033,97.0196,HPGe,Coax,Integrated MCA,None:0,-3,Ortec Detective,Integrated MCA,170
+1033,106,U,U3O8,powder,0.0279,2.9491,0.0033,97.0196,HPGe,Coax,Unknown,Cd:0.76,-3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available", 170 g U as U3O8
+1034,106,U,U3O8,powder,0.0279,2.9491,0.0033,97.0196,HPGe,Planar,Unknown,None:0,-3,Planar HPGe,Unknown,170
+1035,106,U,U3O8,powder,0.0279,2.9491,0.0033,97.0196,LaBr3,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 3.8 cm thick ,Unknown,200
+1036,106,U,U3O8,powder,0.0279,2.9491,0.0033,97.0196,NaI,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 5.1 cm thick ,Unknown,170
+1037,106,U,U3O8,powder,0.0279,2.9492,0.0033,97.0196,HPGe,Coax,Unknown,Cd:0.76,-3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available", 170 g U as U3O8
+1038,107,U,U3O8,powder,0.0359,4.4623,0.0068,95.495,CZT,Unknown,DigiDart,None:0,1.6,15mm x 15mm x 15mm CPG,Unknown,170
+1039,107,U,U3O8,powder,0.0359,4.4623,0.0068,95.495,CdTe,Unknown,DigiDart,None:0,-3,10mm x 10mm x 1mm Peltier-cooled,Unknown,170
+1040,107,U,U3O8,powder,0.0359,4.4623,0.0068,95.495,HPGe,Coax,Integrated MCA,None:0,-3,Ortec Detective,Integrated MCA,170
+1041,107,U,U3O8,powder,0.0359,4.4623,0.0068,95.495,HPGe,Coax,Unknown,Cd:0.76,-3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available", 170 g U as U3O8
+1042,107,U,U3O8,powder,0.0359,4.4623,0.0068,95.495,HPGe,Planar,Unknown,None:0,-3,Planar HPGe,Unknown,170
+1043,107,U,U3O8,powder,0.0359,4.4623,0.0068,95.495,LaBr3,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 3.8 cm thick ,Unknown,200
+1044,107,U,U3O8,powder,0.0359,4.4623,0.0068,95.495,NaI,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 5.1 cm thick ,Unknown,170
+1045,100,U,U3O8,powder,0.14861,20.107,0.1973,79.547,CZT,Unknown,DigiDart,None:0,1.6,15mm x 15mm x 15mm CPG,Unknown,200
+1046,100,U,U3O8,powder,0.14861,20.107,0.1973,79.547,CdTe,Unknown,DigiDart,None:0,-3,10mm x 10mm x 1mm Peltier-cooled,Unknown,200
+1047,100,U,U3O8,powder,0.14861,20.107,0.1973,79.547,HPGe,Coax,Integrated MCA,None:0,-3,Ortec Detective,Integrated MCA,170
+1048,100,U,U3O8,powder,0.14861,20.107,0.1973,79.547,HPGe,Coax,Unknown,Cd:0.76,-3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available", approx 194 g U as U3O8
+1049,100,U,U3O8,powder,0.14861,20.107,0.1973,79.547,HPGe,Coax,Unknown,Cd:0.76,3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available",  approx 194 g U as U3O8
+1050,100,U,U3O8,powder,0.14861,20.107,0.1973,79.547,HPGe,Planar,Unknown,None:0,-3,Planar HPGe,Unknown,200
+1051,100,U,U3O8,powder,0.14861,20.107,0.1973,79.547,LaBr3,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 3.8 cm thick ,Unknown,200
+1052,100,U,U3O8,powder,0.14861,20.107,0.1973,79.547,NaI,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 5.1 cm thick ,Unknown,200
+1053,101,U,U3O8,powder,0.3718,52.488,0.26451,46.876,CZT,Unknown,DigiDart,None:0,1.6,15mm x 15mm x 15mm CPG,Unknown,200
+1054,101,U,U3O8,powder,0.3718,52.488,0.26451,46.876,CdTe,Unknown,DigiDart,None:0,-3,10mm x 10mm x 1mm Peltier-cooled,Unknown,200
+1055,101,U,U3O8,powder,0.3718,52.488,0.26451,46.876,HPGe,Coax,Integrated MCA,None:0,-3,Ortec Detective,Integrated MCA,170
+1056,101,U,U3O8,powder,0.3718,52.488,0.26451,46.876,HPGe,Coax,Unknown,Cd:0.76,-3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available", approx 194 g U as U3O8
+1057,101,U,U3O8,powder,0.3718,52.488,0.26451,46.876,HPGe,Coax,Unknown,Cd:0.76,3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available",  approx 194 g U as U3O8
+1058,101,U,U3O8,powder,0.3718,52.488,0.26451,46.876,HPGe,Planar,Unknown,None:0,-3,Planar HPGe,Unknown,200
+1059,101,U,U3O8,powder,0.3718,52.488,0.26451,46.876,LaBr3,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 3.8 cm thick ,Unknown,200
+1060,101,U,U3O8,powder,0.3718,52.488,0.26451,46.876,NaI,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 5.1 cm thick ,Unknown,200
+1061,102,U,U3O8,powder,0.98,93.17,0.2937,5.5559,HPGe,Coax,Unknown,Cd:0.76,-3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available", approx 194 g U as U3O8
+1062,102,U,U3O8,powder,0.98,93.17,0.2937,5.5559,HPGe,Coax,Unknown,Cd:0.76,3,Approx 25% rel eff closed end coax,"Commercial NIM electronics, models not available",  approx 194 g U as U3O8
+1063,102,U,U3O8,powder,0.98,93.1703,0.2937,5.5559,CZT,Unknown,DigiDart,None:0,1.6,15mm x 15mm x 15mm CPG,Unknown,200
+1064,102,U,U3O8,powder,0.98,93.1703,0.2937,5.5559,CdTe,Unknown,DigiDart,None:0,-3,10mm x 10mm x 1mm Peltier-cooled,Unknown,200
+1065,102,U,U3O8,powder,0.98,93.1703,0.2937,5.5559,HPGe,Coax,Integrated MCA,None:0,-3,Ortec Detective,Integrated MCA,170
+1066,102,U,U3O8,powder,0.98,93.1703,0.2937,5.5559,HPGe,Planar,Unknown,None:0,-3,Planar HPGe,Unknown,200
+1067,102,U,U3O8,powder,0.98,93.1703,0.2937,5.5559,LaBr3,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 3.8 cm thick ,Unknown,200
+1068,102,U,U3O8,powder,0.98,93.1703,0.2937,5.5559,NaI,Unknown,DigiDart,None:0,2.5,2.5 cm diameter by 5.1 cm thick ,Unknown,200
