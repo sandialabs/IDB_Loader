@@ -37,3 +37,5 @@ files, however, do include the additional file.
 
     -  The detector_settings table should not have a FK relationship with the detector_table because the settings table is part
    of the spectrum family of tables.
+   
+    - Primary keys in MariaDB must be named PRIMARY. The key names in the DDL creation script are ignored with a warning.
